@@ -1,8 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,700');
 
+h1{
+    color: darkblue;
+    font-family: cursive;
+}
 body{
-    background: #2E9CE6;
+    background:#D3D3D3;
     padding: 3em;
     font-family: 'Raleway', 'Arial';
     color: #fff;
@@ -24,6 +28,6 @@ ul li a{
 }
 
 a{
-    color:#fff;
+    color:darkblue;
     text-decoration: none;
 }
